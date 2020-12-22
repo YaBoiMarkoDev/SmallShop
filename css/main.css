@@ -292,8 +292,7 @@ p.p{
 .vest{
   border: 3px dashed white;
   border-radius: 5px;
- /* margin-bottom: 4px;
-  margin-top: 4px; */
+  margin: 5px;
   padding:10px;
 }
 input,.input{
