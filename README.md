@@ -1,1 +1,2 @@
 # SmallShop
+Mala prodavnica :)
